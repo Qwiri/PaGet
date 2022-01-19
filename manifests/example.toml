@@ -1,0 +1,14 @@
+# Manifest file for PaGet
+name = "Minecraft"
+author = "Mojang"
+version = "1.18"
+description = "A very fun game"
+homepage = "minecraft.net"
+
+[license]
+type = ""
+url = ""
+
+[installer]
+url = "blahblah"
+signature = ""
