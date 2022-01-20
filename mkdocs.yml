@@ -1,0 +1,7 @@
+site_name: PaGet Docs
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: lime
